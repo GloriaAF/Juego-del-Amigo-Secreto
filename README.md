@@ -28,7 +28,6 @@ Challenge programa principiante G8 ONE
 # Instalación y Uso
 
 1. Clona este repositorio
-git clone https://github.com/tu-usuario/amigo-secreto.git
 2. Abre el archivo index.html en tu navegador
 3. Añade nombres y realiza el sorteo 
 
