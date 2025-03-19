@@ -27,7 +27,7 @@ Challenge programa principiante G8 ONE
 
 # Instalación y Uso
 
-1. Clona este repositorio
+1. Clona este repositorio https://github.com/GloriaAF/Juego-del-Amigo-Secreto
 2. Abre el archivo index.html en tu navegador
 3. Añade nombres y realiza el sorteo 
 
